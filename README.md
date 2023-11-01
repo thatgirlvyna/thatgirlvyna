@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thatgirlvyna
 - 👀 I’m interested in ...SQL
 - 🌱 I’m currently learning ... SQL AND R PROGRAMMING
-- 💞️ I’m looking to collaborate on ... SQL AND R PRPOGRAMMING
+- 💞️ I’m looking to collaborate on ... SQL AND R PROGRAMMING
 - 📫 How to reach me ... VYNAASIMIEA@GMAIL.COM
 
 <!---
